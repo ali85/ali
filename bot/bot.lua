@@ -221,7 +221,7 @@ function create_config( )
       "media",
       "plugins",
       "channels",
-      "set",
+      "261051126",
       "stats",
       "time",
       "version",
